@@ -1,2 +1,1 @@
-https://api.dictionaryapi.dev/api/v2/entries/en/${result}
-dictionary api 
+english dictionary task
